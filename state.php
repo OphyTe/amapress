@@ -1431,7 +1431,7 @@ configurer le mot de passe du listmaster et le domaine de liste <a href="' . adm
 			'categ' => '7/ Stockage',
 		],
 		'inscription-visite'            => [
-			'desc'  => 'Ajouter le shortcode %s sur une page protégée pour permettre aux amapiens de s\'inscrires aux visites aux producteurs',
+			'desc'  => 'Ajouter le shortcode %s sur une page protégée pour permettre aux amapiens de s\'inscrire aux visites aux producteurs',
 			'href'  => $new_page_href,
 			'categ' => '7/ Stockage',
 		],
